@@ -1,7 +1,7 @@
 <!-- markdownlint-disable -->
 <p align="center">
     <a href="https://junwenk.me/" target="_blank" rel="noopener noreferrer">
-        <img src="docs/banner.jpg" alt="banner">
+        <img src="docs/banner.png" alt="banner">
     </a>
 </p>
 
