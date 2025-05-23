@@ -1,6 +1,6 @@
 <!-- markdownlint-disable -->
 <p align="center">
-    <a href="https://junwenk.me/" target="_blank" rel="noopener noreferrer">
+    <a href="https://junwen-k.dev/" target="_blank" rel="noopener noreferrer">
         <img src="docs/banner.png" alt="banner">
     </a>
 </p>
@@ -10,5 +10,5 @@
 <div align="center">
 <!-- markdownlint-enable -->
 
-I write [code](https://junwenk.me/) and [music](https://linktr.ee/steelpedal97)
+I write [code](https://junwen-k.dev/) and [music](https://linktr.ee/steelpedal97)
 :)
