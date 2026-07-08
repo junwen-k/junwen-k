@@ -1,7 +1,7 @@
 <!-- markdownlint-disable -->
 <p align="center">
     <a href="https://junwen-k.dev" target="_blank" rel="noopener noreferrer">
-        <img src="docs/banner.png" alt="Kwan Jun Wen — design engineer · junwen-k.dev">
+        <img src="docs/banner.png" alt="Kwan Jun Wen — design-minded full-stack engineer · junwen-k.dev">
     </a>
 </p>
 <!-- markdownlint-enable -->
