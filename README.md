@@ -10,7 +10,7 @@
 ~ $ cat about.md
 # about
 Kwan Jun Wen — design-minded full-stack engineer.
-TypeScript · React · Node.js · 7+ years.
+TypeScript · React · Node.js · 8+ years.
 Currently Lead Software Engineer @ Setel, Kuala Lumpur.
 I care about interfaces where DX is not an afterthought.
 
